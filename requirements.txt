@@ -15,7 +15,6 @@ Flask-User==1.0.1.5
 Flask-Cors==3.0.8
 
 # scholarly
-scholarly==0.2.5 
 arrow
 beautifulsoup4
 bibtexparser
