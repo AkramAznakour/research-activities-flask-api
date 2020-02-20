@@ -8,8 +8,18 @@ cors = CORS(app)
 
 @app.route('/authors/<author_name>', methods=['GET'])
 def get_author(author_name):
+    
+    print("stage one :")
+    print(author_name)
+
     search_query = scholarly.search_author(author_name)
+    print("stage two :")
+    print(search_query)
+
     author = next(search_query).fill()
+    print("stage three :")
+    print(author)
+
     return author.toJSON()
 
 @app.route('/test/authors/<author_name>', methods=['GET'])
