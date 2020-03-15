@@ -1,0 +1,200 @@
+{
+    "_filled": true,
+    "affiliation": "PhD Student,  Mohammed First University, Faculty of Science,Laboratory MATSI, EST Oujda, Morocco",
+    "citedby": 40,
+    "citedby5y": 39,
+    "cites_per_year": {
+        "2017": 13,
+        "2018": 9,
+        "2019": 14,
+        "2020": 3
+    },
+    "coauthors": [
+        {
+            "_filled": false,
+            "affiliation": "",
+            "id": "y8iTx1cAAAAJ",
+            "name": "Mimoun Moussaoui"
+        },
+        {
+            "_filled": false,
+            "affiliation": "Ph.D., Ing, Professor, Lab. MATSI, ESTO, University Med 1st, Oujda - Morocco",
+            "id": "qlTcK5MAAAAJ",
+            "name": "Mostafa AZIZI"
+        }
+    ],
+    "email": "@ump.ac.ma",
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 2,
+    "i10index5y": 2,
+    "id": "8mZQFG8AAAAJ",
+    "interests": [
+        "Model-driven engineering",
+        "Model Driven Architecture",
+        "Domain-specific language",
+        "UML",
+        "Mobile"
+    ],
+    "name": "Hanane BENOUDA",
+    "publications": [
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Modeling and Code Generation of Android Applications Using Acceleo",
+                "year": 2016
+            },
+            "citedby": 15,
+            "id_citations": "8mZQFG8AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "MDA Approach to Automate Code Generation for Mobile Applications",
+                "year": 2016
+            },
+            "citedby": 14,
+            "id_citations": "8mZQFG8AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Code Generation Approach for Mobile Application Using Acceleo",
+                "year": 2016
+            },
+            "citedby": 6,
+            "id_citations": "8mZQFG8AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Android REST APIs: Volley vs Retrofit",
+                "year": 2018
+            },
+            "citedby": 3,
+            "id_citations": "8mZQFG8AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Automatic code generation within MDA approach for cross-platform mobiles apps",
+                "year": 2017
+            },
+            "citedby": 2,
+            "id_citations": "8mZQFG8AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Android REST APIs : Volley vs Retrofit",
+                "year": 2018
+            },
+            "id_citations": "8mZQFG8AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "MDA et la g\u00e9n\u00e9ration de code des applications mobiles",
+                "year": 2017
+            },
+            "id_citations": "8mZQFG8AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Automatiser la g\u00e9n\u00e9ration de code pour les applications mobiles",
+                "year": 2017
+            },
+            "id_citations": "8mZQFG8AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "MDA au service de d\u00e9veloppement d'application mobiles",
+                "year": 2016
+            },
+            "id_citations": "8mZQFG8AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Mobile Applications Development Based on Model Driven Architecture Approach",
+                "year": 2016
+            },
+            "id_citations": "8mZQFG8AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Developing and generating mobile applications with a   Model Driven Architecture approach",
+                "year": 2016
+            },
+            "id_citations": "8mZQFG8AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Proceedings of the Mediterranean Conference on Information & Communication Technologies 2015: MedCT 2015",
+                "year": 2016
+            },
+            "id_citations": "8mZQFG8AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Transformations from UML to Android Using MOF 2.0 QVT",
+                "year": 2016
+            },
+            "id_citations": "8mZQFG8AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Approche orient\u00e9e MDA pour le d\u00e9veloppement d\u2019applications mobiles multiplateformes",
+                "year": 2015
+            },
+            "id_citations": "8mZQFG8AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Using MDA for developing crossplatforms mobile applications",
+                "year": 2015
+            },
+            "id_citations": "8mZQFG8AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Enqu\u00eate sur les transformations de mod\u00e8les selon MDA",
+                "year": 2014
+            },
+            "id_citations": "8mZQFG8AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "JDoc\u201915"
+            },
+            "id_citations": "8mZQFG8AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=8mZQFG8AAAAJ"
+}

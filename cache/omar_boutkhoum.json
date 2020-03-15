@@ -1,0 +1,247 @@
+{
+    "_filled": true,
+    "affiliation": "Assistant Professor",
+    "citedby": 225,
+    "citedby5y": 223,
+    "cites_per_year": {
+        "2016": 29,
+        "2017": 47,
+        "2018": 66,
+        "2019": 62,
+        "2020": 17
+    },
+    "coauthors": [
+        {
+            "_filled": false,
+            "affiliation": "University Chouaib Eddokali ELJADIDA, Morocco",
+            "id": "eNJBq9gAAAAJ",
+            "name": "HANINE Mohamed"
+        },
+        {
+            "_filled": false,
+            "affiliation": "Department of Computer Science - Cadi Ayyad University",
+            "id": "sNOBLdAAAAAJ",
+            "name": "Tarik Agouti"
+        }
+    ],
+    "email": "",
+    "hindex": 10,
+    "hindex5y": 10,
+    "i10index": 10,
+    "i10index5y": 10,
+    "id": "HJfvmukAAAAJ",
+    "interests": [
+        "DSS",
+        "Information systems",
+        "Business intelligence"
+    ],
+    "name": "BOUTKHOUM Omar",
+    "publications": [
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Application of an integrated multi-criteria decision making AHP-TOPSIS methodology for ETL software selection",
+                "year": 2016
+            },
+            "citedby": 50,
+            "id_citations": "HJfvmukAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Comparison of fuzzy AHP and fuzzy TODIM methods for landfill location selection",
+                "year": 2016
+            },
+            "citedby": 27,
+            "id_citations": "HJfvmukAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Multi-criteria decision support framework for sustainable implementation of effective green supply chain management practices",
+                "year": 2016
+            },
+            "citedby": 23,
+            "id_citations": "HJfvmukAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Data migration methodology from relational to NoSQL databases",
+                "year": 2016
+            },
+            "citedby": 17,
+            "id_citations": "HJfvmukAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Multi-criteria decisional approach of the OLAP analysis by fuzzy logic: green logistics as a case study",
+                "year": 2015
+            },
+            "citedby": 17,
+            "id_citations": "HJfvmukAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "A new web-based framework development for fuzzy multi-criteria group decision-making",
+                "year": 2016
+            },
+            "citedby": 15,
+            "id_citations": "HJfvmukAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "An improved hybrid multi-criteria/multidimensional model for strategic industrial location selection: casablanca industrial zones as a case study",
+                "year": 2015
+            },
+            "citedby": 14,
+            "id_citations": "HJfvmukAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "An application of OLAP/GIS-Fuzzy AHP-TOPSIS methodology for decision making: Location selection for landfill of industrial wastes as a case study",
+                "year": 2017
+            },
+            "citedby": 13,
+            "id_citations": "HJfvmukAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "A new integrated methodology using modified Delphi-fuzzy AHP-PROMETHEE for Geospatial Business Intelligence selection",
+                "year": 2017
+            },
+            "citedby": 12,
+            "id_citations": "HJfvmukAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "A decision-making approach based on fuzzy AHP-TOPSIS methodology for selecting the appropriate cloud solution to manage big data projects",
+                "year": 2017
+            },
+            "citedby": 10,
+            "id_citations": "HJfvmukAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Selection problem of cloud solution for big data accessing: fuzzy AHP-PROMETHEE as a proposed methodology.",
+                "year": 2016
+            },
+            "citedby": 7,
+            "id_citations": "HJfvmukAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Decision making under uncertainty using PEES\u2013fuzzy AHP\u2013fuzzy TOPSIS methodology for landfill location selection",
+                "year": 2016
+            },
+            "citedby": 7,
+            "id_citations": "HJfvmukAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Multi-agent based modeling using multi-criteria decision analysis and OLAP system for decision support problems",
+                "year": 2016
+            },
+            "citedby": 5,
+            "id_citations": "HJfvmukAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Integration approach of multicriteria analysis to OLAP systems: Multidimensional model",
+                "year": 2013
+            },
+            "citedby": 4,
+            "id_citations": "HJfvmukAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "An integrated decision-making prototype based on OLAP systems and multicriteria analysis for complex decision-making problems",
+                "year": 2017
+            },
+            "citedby": 2,
+            "id_citations": "HJfvmukAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Approach to integration SOLAP tools and multicriteria analysis for spatial decision support",
+                "year": 2013
+            },
+            "citedby": 2,
+            "id_citations": "HJfvmukAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "A new preprocessing method reduces the dimensionality of classification models: Application to a marketplace user profile prediction",
+                "year": 2019
+            },
+            "id_citations": "HJfvmukAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "A New Clustering Approach for K-NN Algorithm Optimization: Application to Marketplace Profile User Prediction",
+                "year": 2019
+            },
+            "id_citations": "HJfvmukAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "A Comparative Analysis Approach Based on Fuzzy AHP, TOPSIS and PROMETHEE for the Selection Problem of GSCM Solutions",
+                "year": 2018
+            },
+            "id_citations": "HJfvmukAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "CDT to Detect Co-residence in Cloud Computing",
+                "year": 2017
+            },
+            "id_citations": "HJfvmukAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "_filled": false,
+            "bib": {
+                "title": "Enhancing Geospatial Business Intelligence capabilities using Multi-Criteria Decision Making",
+                "year": 2015
+            },
+            "id_citations": "HJfvmukAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=HJfvmukAAAAJ"
+}
