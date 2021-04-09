@@ -5,8 +5,18 @@
     "description": "DB"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Marco"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "tests",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Kevin"
   }
 }
